@@ -1,0 +1,872 @@
+[0.000 info src/main.cpp:119] VCV Rack v1.1.6
+[0.000 info src/main.cpp:120] Darwin 19.2.0 Darwin Kernel Version 19.2.0: Sat Nov  9 03:47:04 PST 2019; root:xnu-6153.61.1~20/RELEASE_X86_64 x86_64
+[0.000 info src/main.cpp:126] Args: /Applications/Rack.app/Contents/MacOS/Rack 
+[0.000 info src/main.cpp:129] System directory: /Applications/Rack.app/Contents/Resources
+[0.000 info src/main.cpp:130] User directory: /Users/andreyv/Documents/Rack
+[0.000 info src/main.cpp:132] Bundle path: /Applications/Rack.app
+[0.000 info src/settings.cpp:206] Loading settings /Users/andreyv/Documents/Rack/settings-v1.json
+[0.000 info src/main.cpp:155] Initializing environment
+[0.016 info src/plugin.cpp:154] Loaded plugin Core v1.1.6 from 
+[0.019 info src/plugin.cpp:154] Loaded plugin 21kHz v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/21kHz
+[0.023 info src/plugin.cpp:154] Loaded plugin 23volts v1.1.5 from /Users/andreyv/Documents/Rack/plugins-v1/23volts
+[0.024 info src/plugin.cpp:154] Loaded plugin 8Mode v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/8Mode
+[0.030 info src/plugin.cpp:154] Loaded plugin AS v1.0.4 from /Users/andreyv/Documents/Rack/plugins-v1/AS
+[0.031 info src/plugin.cpp:154] Loaded plugin AaronStatic v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/AaronStatic
+[0.033 info src/plugin.cpp:154] Loaded plugin Admiral v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/Admiral
+[0.034 info src/plugin.cpp:154] Loaded plugin Agave v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/Agave
+[0.036 info src/plugin.cpp:154] Loaded plugin Ahornberg v1.5.1 from /Users/andreyv/Documents/Rack/plugins-v1/Ahornberg
+[0.038 info src/plugin.cpp:154] Loaded plugin AlgoritmArte v1.6.0 from /Users/andreyv/Documents/Rack/plugins-v1/AlgoritmArte
+[0.040 info src/plugin.cpp:154] Loaded plugin Alikins v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/Alikins
+[0.041 info src/plugin.cpp:154] Loaded plugin AlrightDevices v1.0.3 from /Users/andreyv/Documents/Rack/plugins-v1/AlrightDevices
+[0.047 info src/plugin.cpp:154] Loaded plugin AmalgamatedHarmonics v1.0.4 from /Users/andreyv/Documents/Rack/plugins-v1/AmalgamatedHarmonics
+[0.048 info src/plugin.cpp:154] Loaded plugin AnimatedCircuits v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/AnimatedCircuits
+[0.049 info src/plugin.cpp:154] Loaded plugin ArableInstruments v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/ArableInstruments
+[0.058 info src/plugin.cpp:154] Loaded plugin AriaSalvatrice v1.8.1 from /Users/andreyv/Documents/Rack/plugins-v1/AriaSalvatrice
+[0.060 info src/plugin.cpp:154] Loaded plugin Atelier v1.0.4 from /Users/andreyv/Documents/Rack/plugins-v1/Atelier
+[0.065 info src/plugin.cpp:154] Loaded plugin AudibleInstruments v1.5.0 from /Users/andreyv/Documents/Rack/plugins-v1/AudibleInstruments
+[0.066 info src/plugin.cpp:154] Loaded plugin AuntyLangtonsFree v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/AuntyLangtonsFree
+[0.067 info src/plugin.cpp:154] Loaded plugin AuraAudio v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/AuraAudio
+[0.070 info src/plugin.cpp:154] Loaded plugin Autinn v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/Autinn
+[0.073 info src/plugin.cpp:154] Loaded plugin Autodafe v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/Autodafe
+[0.074 info src/plugin.cpp:154] Loaded plugin Autodafe-DrumKit v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/Autodafe-DrumKit
+[0.077 info src/plugin.cpp:154] Loaded plugin Autodafe-REDsFREE v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/Autodafe-REDsFREE
+[0.078 info src/plugin.cpp:154] Loaded plugin Axioma v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/Axioma
+[0.082 info src/plugin.cpp:154] Loaded plugin BaconMusic v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/BaconMusic
+[0.086 info src/plugin.cpp:154] Loaded plugin Bark v1.2.5 from /Users/andreyv/Documents/Rack/plugins-v1/Bark
+[0.088 info src/plugin.cpp:154] Loaded plugin Befaco v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/Befaco
+[0.096 info src/plugin.cpp:154] Loaded plugin Bidoo v1.1.29 from /Users/andreyv/Documents/Rack/plugins-v1/Bidoo
+[0.097 info src/plugin.cpp:154] Loaded plugin Blamsoft-XFXDistortionPack v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXDistortionPack
+[0.098 info src/plugin.cpp:154] Loaded plugin Blamsoft-XFXF35 v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXF35
+[0.099 info src/plugin.cpp:154] Loaded plugin Blamsoft-XFXReverb v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXReverb
+[0.100 info src/plugin.cpp:154] Loaded plugin Blamsoft-XFXWave v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXWave
+[0.119 info src/bridge.cpp:384] Bridge server started
+[0.131 info src/plugin.cpp:154] Loaded plugin Bogaudio v1.1.37 from /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio
+[0.131 info src/plugin.cpp:154] Loaded plugin CYC v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/CYC
+[0.134 info src/plugin.cpp:154] Loaded plugin CaptainsSounds v1.0.7 from /Users/andreyv/Documents/Rack/plugins-v1/CaptainsSounds
+[0.136 info src/plugin.cpp:154] Loaded plugin CatroBlanco v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/CatroBlanco
+[0.138 info src/plugin.cpp:154] Loaded plugin CatroModulo v1.0.3 from /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo
+[0.141 info src/plugin.cpp:154] Loaded plugin CharredDesert v1.3.1 from /Users/andreyv/Documents/Rack/plugins-v1/CharredDesert
+[0.142 info src/plugin.cpp:154] Loaded plugin Chiptuner v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/Chiptuner
+[0.143 info src/plugin.cpp:154] Loaded plugin ChordController v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/ChordController
+[0.144 info src/plugin.cpp:154] Loaded plugin ChortlingHamsterModules v1.1.2 from /Users/andreyv/Documents/Rack/plugins-v1/ChortlingHamsterModules
+[0.147 info src/plugin.cpp:154] Loaded plugin ChowDSP v1.4.0 from /Users/andreyv/Documents/Rack/plugins-v1/ChowDSP
+[0.148 info src/plugin.cpp:154] Loaded plugin Circlefade v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/Circlefade
+[0.149 info src/plugin.cpp:154] Loaded plugin Comfortzone v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/Comfortzone
+[0.175 info src/plugin.cpp:154] Loaded plugin CountModula v1.13.0 from /Users/andreyv/Documents/Rack/plugins-v1/CountModula
+[0.176 info src/plugin.cpp:154] Loaded plugin CrystalPalace v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/CrystalPalace
+[0.181 info src/plugin.cpp:154] Loaded plugin DHE-Modules v1.5.1 from /Users/andreyv/Documents/Rack/plugins-v1/DHE-Modules
+[0.183 info src/plugin.cpp:154] Loaded plugin DanTModules v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/DanTModules
+[0.185 info src/plugin.cpp:154] Loaded plugin Dintree-Virtual v1.0.14 from /Users/andreyv/Documents/Rack/plugins-v1/Dintree-Virtual
+[0.195 info src/plugin.cpp:154] Loaded plugin DrumKit v1.1.4 from /Users/andreyv/Documents/Rack/plugins-v1/DrumKit
+[0.197 info src/plugin.cpp:154] Loaded plugin EH_modules v1.0.5 from /Users/andreyv/Documents/Rack/plugins-v1/EH_modules
+[0.197 info src/plugin.cpp:154] Loaded plugin ESeries v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/ESeries
+[0.198 info src/plugin.cpp:154] Loaded plugin Edge v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/Edge
+[0.206 info src/plugin.cpp:154] Loaded plugin Entrian-Free v1.1.19 from /Users/andreyv/Documents/Rack/plugins-v1/Entrian-Free
+[0.207 info src/plugin.cpp:154] Loaded plugin EricaCopies v1.0.4 from /Users/andreyv/Documents/Rack/plugins-v1/EricaCopies
+[0.208 info src/plugin.cpp:154] Loaded plugin ExpertSleepers-Encoders v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/ExpertSleepers-Encoders
+[0.209 info src/plugin.cpp:154] Loaded plugin FLAG-Free v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/FLAG-Free
+[0.211 info src/plugin.cpp:154] Loaded plugin FehlerFabrik-Suite v1.1.1 from /Users/andreyv/Documents/Rack/plugins-v1/FehlerFabrik-Suite
+[0.213 info src/plugin.cpp:154] Loaded plugin FrankBuss v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/FrankBuss
+[0.222 info src/plugin.cpp:154] Loaded plugin FrequencyDomain v1.9.1 from /Users/andreyv/Documents/Rack/plugins-v1/FrequencyDomain
+[0.231 info src/plugin.cpp:154] Loaded plugin FrozenWasteland v1.17.1 from /Users/andreyv/Documents/Rack/plugins-v1/FrozenWasteland
+[0.235 info src/plugin.cpp:154] Loaded plugin Fundamental v1.4.0 from /Users/andreyv/Documents/Rack/plugins-v1/Fundamental
+[0.238 info src/plugin.cpp:154] Loaded plugin Geodesics v1.2.0 from /Users/andreyv/Documents/Rack/plugins-v1/Geodesics
+[0.242 info src/plugin.cpp:154] Loaded plugin GlueTheGiant v1.1.3 from /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant
+[0.244 info src/plugin.cpp:154] Loaded plugin GoodSheperd v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/GoodSheperd
+[0.246 info src/plugin.cpp:154] Loaded plugin GrandeModular v1.7.1 from /Users/andreyv/Documents/Rack/plugins-v1/GrandeModular
+[0.248 info src/plugin.cpp:154] Loaded plugin Grayscale v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/Grayscale
+[0.249 info src/plugin.cpp:154] Loaded plugin HamptonHarmonics v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/HamptonHarmonics
+[0.252 info src/plugin.cpp:154] Loaded plugin HetrickCV v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/HetrickCV
+[0.254 info src/plugin.cpp:154] Loaded plugin HolonicSystems-Free v1.0.5 from /Users/andreyv/Documents/Rack/plugins-v1/HolonicSystems-Free
+[0.255 info src/plugin.cpp:154] Loaded plugin Hora-Mixers v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/Hora-Mixers
+[0.256 info src/plugin.cpp:154] Loaded plugin Hora-ModulationFree v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/Hora-ModulationFree
+[0.257 info src/plugin.cpp:154] Loaded plugin Hora-PCMDrumFree v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/Hora-PCMDrumFree
+[0.258 info src/plugin.cpp:154] Loaded plugin Hora-ProcessorsFree v1.0.3 from /Users/andreyv/Documents/Rack/plugins-v1/Hora-ProcessorsFree
+[0.260 info src/plugin.cpp:154] Loaded plugin Hora-VCO_VCF_VCA_Free v1.0.6 from /Users/andreyv/Documents/Rack/plugins-v1/Hora-VCO_VCF_VCA_Free
+[0.261 info src/plugin.cpp:154] Loaded plugin Hora-treasureFree v1.0.3 from /Users/andreyv/Documents/Rack/plugins-v1/Hora-treasureFree
+[0.262 info src/plugin.cpp:154] Loaded plugin ILovePerlin v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/ILovePerlin
+[0.264 info src/plugin.cpp:154] Loaded plugin IggyLabsModules v1.1.2 from /Users/andreyv/Documents/Rack/plugins-v1/IggyLabsModules
+[0.274 info src/plugin.cpp:154] Loaded plugin ImpromptuModular v1.1.10 from /Users/andreyv/Documents/Rack/plugins-v1/ImpromptuModular
+[0.279 info src/plugin.cpp:154] Loaded plugin Instruo v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/Instruo
+[0.280 info src/plugin.cpp:154] Loaded plugin Interrobang v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/Interrobang
+[0.281 info src/plugin.cpp:154] Loaded plugin JE v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/JE
+[0.282 info src/plugin.cpp:154] Loaded plugin JLmod v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/JLmod
+[0.287 info src/plugin.cpp:154] Loaded plugin JW-Modules v1.0.21 from /Users/andreyv/Documents/Rack/plugins-v1/JW-Modules
+[0.288 info src/plugin.cpp:154] Loaded plugin KarateSnoopy v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/KarateSnoopy
+[0.292 info src/plugin.cpp:154] Loaded plugin KautenjaDSP-PotatoChips v1.9.0 from /Users/andreyv/Documents/Rack/plugins-v1/KautenjaDSP-PotatoChips
+[0.295 info src/plugin.cpp:154] Loaded plugin KautenjaDSP-RackNES v1.4.2 from /Users/andreyv/Documents/Rack/plugins-v1/KautenjaDSP-RackNES
+[0.297 info src/plugin.cpp:154] Loaded plugin Koralfx-Modules v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/Koralfx-Modules
+[0.298 info src/plugin.cpp:154] Loaded plugin Kosmodules-Free v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/Kosmodules-Free
+[0.299 info src/plugin.cpp:154] Loaded plugin LOGinstruments v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/LOGinstruments
+[0.300 info src/plugin.cpp:154] Loaded plugin LabSeven v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/LabSeven
+[0.303 info src/plugin.cpp:154] Loaded plugin LifeFormModular v1.1 from /Users/andreyv/Documents/Rack/plugins-v1/LifeFormModular
+[0.303 info src/plugin.cpp:154] Loaded plugin LilacLoop v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/LilacLoop
+[0.307 info src/plugin.cpp:154] Loaded plugin LindenbergResearch v1.3.3 from /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch
+[0.309 info src/plugin.cpp:154] Loaded plugin LittleUtils v1.0.3 from /Users/andreyv/Documents/Rack/plugins-v1/LittleUtils
+[0.311 info src/plugin.cpp:154] Loaded plugin LomasModules v1.0.9 from /Users/andreyv/Documents/Rack/plugins-v1/LomasModules
+[0.315 info src/plugin.cpp:154] Loaded plugin LunettaModula v1.1.1 from /Users/andreyv/Documents/Rack/plugins-v1/LunettaModula
+[0.316 info src/plugin.cpp:154] Loaded plugin MH v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/MH
+[0.320 info src/plugin.cpp:154] Loaded plugin ML_modules v1.1.3 from /Users/andreyv/Documents/Rack/plugins-v1/ML_modules
+[0.322 info src/plugin.cpp:154] Loaded plugin MM_Tools v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/MM_Tools
+[0.326 info src/plugin.cpp:154] Loaded plugin MSM v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/MSM
+[0.327 info src/plugin.cpp:154] Loaded plugin Mantra v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/Mantra
+[0.331 info src/plugin.cpp:154] Loaded plugin Mental v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/Mental
+[0.331 info src/plugin.cpp:154] Loaded plugin MicMusic v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/MicMusic
+[0.339 info src/plugin.cpp:154] Loaded plugin MindMeldModular v1.1.12 from /Users/andreyv/Documents/Rack/plugins-v1/MindMeldModular
+[0.343 info src/plugin.cpp:154] Loaded plugin MockbaModular v1.2.1 from /Users/andreyv/Documents/Rack/plugins-v1/MockbaModular
+[0.346 info src/plugin.cpp:154] Loaded plugin ModularFungi v1.1.4 from /Users/andreyv/Documents/Rack/plugins-v1/ModularFungi
+[0.347 info src/plugin.cpp:154] Loaded plugin Mog v1.1.1 from /Users/andreyv/Documents/Rack/plugins-v1/Mog
+[0.348 info src/plugin.cpp:154] Loaded plugin MosquitoLabs v1.1.1 from /Users/andreyv/Documents/Rack/plugins-v1/MosquitoLabs
+[0.349 info src/plugin.cpp:154] Loaded plugin MpSeries v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/MpSeries
+[0.350 info src/plugin.cpp:154] Loaded plugin MrLumps v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/MrLumps
+[0.351 info src/plugin.cpp:154] Loaded plugin MyLittleTools v1.0.3 from /Users/andreyv/Documents/Rack/plugins-v1/MyLittleTools
+[0.353 info src/plugin.cpp:154] Loaded plugin NANOModules v1.6.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/NANOModules
+[0.355 info src/plugin.cpp:154] Loaded plugin NEXSwitches v1.1.1 from /Users/andreyv/Documents/Rack/plugins-v1/NEXSwitches
+[0.386 info src/plugin.cpp:154] Loaded plugin NYSTHI v1.0.17 from /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI
+[0.387 info src/plugin.cpp:154] Loaded plugin NocturnalEncoder v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/NocturnalEncoder
+[0.388 info src/plugin.cpp:154] Loaded plugin Nohmad v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/Nohmad
+[0.389 info src/plugin.cpp:154] Loaded plugin NonLinearInstruments v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/NonLinearInstruments
+[0.392 info src/plugin.cpp:154] Loaded plugin NonlinearCircuits v1.2.0 from /Users/andreyv/Documents/Rack/plugins-v1/NonlinearCircuits
+[0.393 info src/plugin.cpp:154] Loaded plugin NoraCodes v1.2.2 from /Users/andreyv/Documents/Rack/plugins-v1/NoraCodes
+[0.398 info src/plugin.cpp:154] Loaded plugin Nozoid v1.1.9 from /Users/andreyv/Documents/Rack/plugins-v1/Nozoid
+[0.403 info src/plugin.cpp:154] Loaded plugin Ohmer v1.1.6 from /Users/andreyv/Documents/Rack/plugins-v1/Ohmer
+[0.404 info src/plugin.cpp:154] Loaded plugin OhmerPrems v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/OhmerPrems
+[0.406 info src/plugin.cpp:154] Loaded plugin OrangeLine v1.3.3 from /Users/andreyv/Documents/Rack/plugins-v1/OrangeLine
+[0.407 info src/plugin.cpp:154] Loaded plugin Oxidlab-Entferner-Free v1.0.3 from /Users/andreyv/Documents/Rack/plugins-v1/Oxidlab-Entferner-Free
+[0.409 info src/plugin.cpp:154] Loaded plugin PS-PurrSoftware v1.0.11 from /Users/andreyv/Documents/Rack/plugins-v1/PS-PurrSoftware
+[0.410 info src/plugin.cpp:154] Loaded plugin ParableInstruments v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/ParableInstruments
+[0.411 info src/plugin.cpp:154] Loaded plugin PatchAndTweak v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/PatchAndTweak
+[0.413 info src/plugin.cpp:154] Loaded plugin PdArray v1.0.6 from /Users/andreyv/Documents/Rack/plugins-v1/PdArray
+[0.414 info src/plugin.cpp:154] Loaded plugin PersonalModules v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/PersonalModules
+[0.417 info src/plugin.cpp:154] Loaded plugin Prism v1.2.0 from /Users/andreyv/Documents/Rack/plugins-v1/Prism
+[0.419 info src/plugin.cpp:154] Loaded plugin QuantalAudio v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/QuantalAudio
+[0.421 info src/plugin.cpp:154] Loaded plugin Qwelk v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/Qwelk
+[0.422 info src/plugin.cpp:154] Loaded plugin RB-Clapper v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/RB-Clapper
+[0.423 info src/plugin.cpp:154] Loaded plugin RB-Tilter v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/RB-Tilter
+[0.432 info src/plugin.cpp:154] Loaded plugin RJModules v1.7.2 from /Users/andreyv/Documents/Rack/plugins-v1/RJModules
+[0.434 info src/plugin.cpp:154] Loaded plugin RacketScience v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/RacketScience
+[0.435 info src/plugin.cpp:154] Loaded plugin RareBreeds_Orbits v1.2.0 from /Users/andreyv/Documents/Rack/plugins-v1/RareBreeds_Orbits
+[0.436 info src/plugin.cpp:154] Loaded plugin ReTunesFree v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/ReTunesFree
+[0.437 info src/plugin.cpp:154] Loaded plugin SA-Seasons v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/SA-Seasons
+[0.438 info src/plugin.cpp:154] Loaded plugin SLM v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/SLM
+[0.442 info src/plugin.cpp:154] Loaded plugin STS v1.1.2 from /Users/andreyv/Documents/Rack/plugins-v1/STS
+[0.444 info src/plugin.cpp:154] Loaded plugin Sckitam v1.0.5 from /Users/andreyv/Documents/Rack/plugins-v1/Sckitam
+[0.445 info src/plugin.cpp:154] Loaded plugin Sculpt-O-Sound v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/Sculpt-O-Sound
+[0.449 info src/plugin.cpp:154] Loaded plugin Sha-Bang-Modules v1.2.3 from /Users/andreyv/Documents/Rack/plugins-v1/Sha-Bang-Modules
+[0.450 info src/plugin.cpp:154] Loaded plugin SignalFlux v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/SignalFlux
+[0.452 info src/jaq.cc:156] We linked to JACK :^)
+[0.463 info src/plugin.cpp:154] Loaded plugin SkJack v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/SkJack
+[0.465 info src/plugin.cpp:154] Loaded plugin Skylights v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/Skylights
+[0.469 info src/plugin.cpp:154] Loaded plugin SonusModular v1.4.0 from /Users/andreyv/Documents/Rack/plugins-v1/SonusModular
+[0.472 info src/plugin.cpp:154] Loaded plugin Stalys v1.4.2 from /Users/andreyv/Documents/Rack/plugins-v1/Stalys
+[0.478 info src/plugin.cpp:154] Loaded plugin Starling_Via v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/Starling_Via
+[0.479 info src/plugin.cpp:154] Loaded plugin StellareModular v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/StellareModular
+[0.485 info src/plugin.cpp:154] Loaded plugin StellareModular-Link v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/StellareModular-Link
+[0.518 info src/plugin.cpp:154] Loaded plugin Stoermelder-P1 v1.8.0 from /Users/andreyv/Documents/Rack/plugins-v1/Stoermelder-P1
+[0.527 info src/plugin.cpp:154] Loaded plugin StudioSixPlusOne v1.2.1 from /Users/andreyv/Documents/Rack/plugins-v1/StudioSixPlusOne
+[0.548 info src/plugin.cpp:154] Loaded plugin SubmarineFree v1.1.10 from /Users/andreyv/Documents/Rack/plugins-v1/SubmarineFree
+[0.554 info src/Surge.cpp:23] [SurgeRack] initializing
+[0.555 info src/plugin.cpp:154] Loaded plugin SurgeRack v1.7.1.2 from /Users/andreyv/Documents/Rack/plugins-v1/SurgeRack
+[0.557 info src/plugin.cpp:154] Loaded plugin SynthKit v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/SynthKit
+[0.558 info src/plugin.cpp:154] Loaded plugin SyntheticFXFree v1.0.3 from /Users/andreyv/Documents/Rack/plugins-v1/SyntheticFXFree
+[0.559 info src/plugin.cpp:154] Loaded plugin TercerBrazo v1.0.3 from /Users/andreyv/Documents/Rack/plugins-v1/TercerBrazo
+[0.564 info src/plugin.cpp:154] Loaded plugin TheXOR v1.1.1 from /Users/andreyv/Documents/Rack/plugins-v1/TheXOR
+[0.568 info src/plugin.cpp:154] Loaded plugin TinyTricks v1.5.0 from /Users/andreyv/Documents/Rack/plugins-v1/TinyTricks
+[0.570 info src/plugin.cpp:154] Loaded plugin TriggerFish-Elements v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/TriggerFish-Elements
+[0.571 info src/plugin.cpp:154] Loaded plugin Truly v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/Truly
+[0.574 info src/plugin.cpp:154] Loaded plugin VCV-Prototype v1.3.0 from /Users/andreyv/Documents/Rack/plugins-v1/VCV-Prototype
+[0.576 info src/plugin.cpp:154] Loaded plugin VCV-Recorder v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/VCV-Recorder
+[0.580 info src/plugin.cpp:154] Loaded plugin Valley v1.1.7 from /Users/andreyv/Documents/Rack/plugins-v1/Valley
+[0.585 info src/plugin.cpp:154] Loaded plugin VultModulesFree v1.14 from /Users/andreyv/Documents/Rack/plugins-v1/VultModulesFree
+[0.586 info src/plugin.cpp:154] Loaded plugin WeldSplatter v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/WeldSplatter
+[0.588 info src/plugin.cpp:154] Loaded plugin WhatTheRack v1.1.1 from /Users/andreyv/Documents/Rack/plugins-v1/WhatTheRack
+[0.591 info src/plugin.cpp:154] Loaded plugin WrongPeople v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/WrongPeople
+[0.594 info src/plugin.cpp:154] Loaded plugin ZZC v1.1.3 from /Users/andreyv/Documents/Rack/plugins-v1/ZZC
+[0.595 info src/plugin.cpp:154] Loaded plugin ZetaCarinae v1.1.18 from /Users/andreyv/Documents/Rack/plugins-v1/ZetaCarinae
+[0.597 info src/plugin.cpp:154] Loaded plugin alto777_LFSR v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/alto777_LFSR
+[0.598 info src/plugin.cpp:154] Loaded plugin aridacity v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/aridacity
+[0.600 info src/plugin.cpp:154] Loaded plugin az v1.1.1 from /Users/andreyv/Documents/Rack/plugins-v1/az
+[0.601 info src/plugin.cpp:154] Loaded plugin captvolt v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/captvolt
+[0.605 info src/plugin.cpp:154] Loaded plugin cf v1.1.1 from /Users/andreyv/Documents/Rack/plugins-v1/cf
+[0.610 info src/plugin.cpp:154] Loaded plugin computerscare v1.4.1 from /Users/andreyv/Documents/Rack/plugins-v1/computerscare
+[0.615 info src/plugin.cpp:154] Loaded plugin dBiz v1.1.2 from /Users/andreyv/Documents/Rack/plugins-v1/dBiz
+[0.616 info src/plugin.cpp:154] Loaded plugin huaba v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/huaba
+[0.617 info src/plugin.cpp:154] Loaded plugin kocmoc v1.3.3 from /Users/andreyv/Documents/Rack/plugins-v1/kocmoc
+[0.618 info src/plugin.cpp:154] Loaded plugin luckyxxl v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/luckyxxl
+[0.620 info src/plugin.cpp:154] Loaded plugin manikkFree v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/manikkFree
+[0.623 info src/plugin.cpp:154] Loaded plugin moDllz v1.1.7 from /Users/andreyv/Documents/Rack/plugins-v1/moDllz
+[0.624 info src/plugin.cpp:154] Loaded plugin modular80 v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/modular80
+[0.631 info src/plugin.cpp:154] Loaded plugin mscHack v1.0.2 from /Users/andreyv/Documents/Rack/plugins-v1/mscHack
+[0.632 info src/plugin.cpp:154] Loaded plugin noobhour v1.0.3 from /Users/andreyv/Documents/Rack/plugins-v1/noobhour
+[0.633 info src/plugin.cpp:154] Loaded plugin pfzzz v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/pfzzz
+[0.637 info src/plugin.cpp:154] Loaded plugin rackwindows v1.1.2 from /Users/andreyv/Documents/Rack/plugins-v1/rackwindows
+[0.638 info src/plugin.cpp:154] Loaded plugin rchoices v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/rchoices
+[0.641 info src/plugin.cpp:154] Loaded plugin rcm v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/rcm
+[0.643 info src/plugin.cpp:154] Loaded plugin repelzen v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/repelzen
+[0.644 info src/plugin.cpp:154] Loaded plugin s-ol v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/s-ol
+[0.646 info src/plugin.cpp:154] Loaded plugin sb-StochKit v1.0.0 from /Users/andreyv/Documents/Rack/plugins-v1/sb-StochKit
+[0.647 info src/plugin.cpp:154] Loaded plugin scanner-darkly-collection-one v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/scanner-darkly-collection-one
+[0.665 info src/plugin.cpp:154] Loaded plugin squinkylabs-plug1 v1.0.15 from /Users/andreyv/Documents/Rack/plugins-v1/squinkylabs-plug1
+[0.667 info src/plugin.cpp:154] Loaded plugin stocaudio v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/stocaudio
+[0.671 info src/plugin.cpp:154] Loaded plugin trowaSoft v1.0.3 from /Users/andreyv/Documents/Rack/plugins-v1/trowaSoft
+[0.675 info src/theme.hpp:219] [ unless ] loading color theme from ./unlessgames/theme.json
+[0.675 info src/plugin.cpp:154] Loaded plugin unless_modules v1.1.1 from /Users/andreyv/Documents/Rack/plugins-v1/unless_modules
+[0.676 info src/plugin.cpp:154] Loaded plugin vitamin v1.0.1 from /Users/andreyv/Documents/Rack/plugins-v1/vitamin
+[0.680 info src/plugin.cpp:154] Loaded plugin voxglitch v1.25.0 from /Users/andreyv/Documents/Rack/plugins-v1/voxglitch
+[0.682 info src/plugin.cpp:154] Loaded plugin wiqid-anomalies v1.1.0 from /Users/andreyv/Documents/Rack/plugins-v1/wiqid-anomalies
+[0.744 info src/main.cpp:171] Initializing app
+[1.270 info src/window.cpp:238] Window content scale: 2.000000
+[1.623 info src/window.cpp:279] Renderer: AMD Radeon Pro 450 OpenGL Engine
+[1.623 info src/window.cpp:280] OpenGL: 2.1 ATI-3.4.19
+[1.627 info src/window.cpp:33] Loaded font /Applications/Rack.app/Contents/Resources/res/fonts/DejaVuSans.ttf
+[1.628 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/RackBusboard.svg
+[1.632 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[23.934 info src/patch.cpp:163] Loading patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[23.942 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/Core/AudioInterface.svg
+[23.942 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/ScrewSilver.svg
+[23.942 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/PJ301M.svg
+[23.943 info src/window.cpp:33] Loaded font /Applications/Rack.app/Contents/Resources/res/fonts/ShareTechMono-Regular.ttf
+[23.948 info src/audio.cpp:266] Opening audio RtAudio device 4 with 2 in 4 out
+[23.950 info src/audio.cpp:279] Starting RtAudio stream 4
+[23.950 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Stoermelder-P1/res/Mb.svg
+[23.963 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/BusDepot.svg
+[23.966 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/BusDepot_Night.svg
+[23.966 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/ScrewUp.svg
+[23.966 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/ScrewUp_Night.svg
+[23.966 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlackButton_0.svg
+[23.966 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlackButton_1.svg
+[23.966 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlackButton_Night_0.svg
+[23.967 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlackButton_Night_1.svg
+[23.967 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlackTinyKnob.svg
+[23.967 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlackTinyKnob_Night.svg
+[23.967 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlackKnob.svg
+[23.967 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlackKnob_Night.svg
+[23.967 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/GrayTinyKnob.svg
+[23.967 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/GrayTinyKnob_Night.svg
+[23.967 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/KeyPort.svg
+[23.967 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/KeyPort_Night.svg
+[23.968 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/NutPort.svg
+[23.968 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/NutPort_Night.svg
+[23.970 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/BusRoute.svg
+[23.988 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/BusRoute_Night.svg
+[23.989 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/fonts/DSEG7-Classic-MINI/DSEG7ClassicMini-Bold.ttf
+[23.989 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlueTinyKnob.svg
+[23.989 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlueTinyKnob_Night.svg
+[23.989 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/OrangeTinyKnob.svg
+[23.989 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/OrangeTinyKnob_Night.svg
+[23.989 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/RedTinyKnob.svg
+[23.989 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/RedTinyKnob_Night.svg
+[23.989 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlackTinyButton_0.svg
+[23.989 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlackTinyButton_1.svg
+[23.989 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlackTinyButton_Night_0.svg
+[23.989 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/BlackTinyButton_Night_1.svg
+[23.991 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/GigBus.svg
+[23.993 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/GigBus_Night.svg
+[23.993 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/GrayKnob.svg
+[23.993 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/GrayKnob_Night.svg
+[23.993 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/RedKnob.svg
+[23.993 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/components/RedKnob_Night.svg
+[23.995 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/Road.svg
+[23.997 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/GlueTheGiant/res/Road_Night.svg
+[23.997 info src/skins.cpp:181] Bogaudio: skin information loaded successfully from /Users/andreyv/Documents/Rack/Bogaudio.json
+
+[23.997 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/Manual-lowcontrast.svg
+[23.997 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/ScrewBlack.svg
+[23.998 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/button_18px_0.svg
+[23.998 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/button_18px_1.svg
+[23.998 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/port-lowcontrast.svg
+[24.006 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/HotTunaB.svg
+[24.006 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/fonts/DejaVuSansMono.ttf
+[24.007 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyRoundBlack18.svg
+[24.007 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyOutputPort22.svg
+[24.007 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyTapperUp12.svg
+[24.007 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyTapperDown12.svg
+[24.007 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyInputPort22CV.svg
+[24.007 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyOutputPort22CV.svg
+[24.007 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyInputPort22.svg
+[24.008 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/Metriks_Classic.svg
+[24.009 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/Metriks_Stage_Repro.svg
+[24.009 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/Metriks_Absolute_Night.svg
+[24.010 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/Metriks_Dark_Signature.svg
+[24.010 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/Metriks_Deepblue_Signature.svg
+[24.010 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/Metriks_Carbon_Signature.svg
+[24.011 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/fonts/LEDCounter7.ttf
+[24.011 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/components/Torx_Gold.svg
+[24.011 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/components/Torx_Silver.svg
+[24.011 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/components/XB_Port_Silver.svg
+[24.011 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/components/KS_Encoder.svg
+[24.011 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/components/XB_Button_Up_Gold.svg
+[24.011 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/components/XB_Button_Down_Gold.svg
+[24.012 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/components/XB_Button_Up_Silver.svg
+[24.012 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/components/XB_Button_Down_Silver.svg
+[24.012 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/KlokSpid_Classic.svg
+[24.013 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/KlokSpid_Stage_Repro.svg
+[24.014 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/KlokSpid_Absolute_Night.svg
+[24.014 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/KlokSpid_Dark_Signature.svg
+[24.015 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/KlokSpid_Deepblue_Signature.svg
+[24.015 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/KlokSpid_Carbon_Signature.svg
+[24.017 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/8AttackDecay.svg
+[24.017 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyRoundBlack22.svg
+[24.017 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyTapperUpSmall.svg
+[24.017 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyTapperDownSmall.svg
+[24.017 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyInputPort22PULSE.svg
+[24.017 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyInputPort22AUDIOCV.svg
+[24.017 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyOutputPort22AUDIOCV.svg
+[24.017 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NYSTHI/res/ctrls/nyOutputPort22PULSE.svg
+[24.025 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/PlateauPanelDark.svg
+[24.027 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/PlateauPanelLight.svg
+[24.027 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/PJ301MDarkSmall.svg
+[24.028 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/PJ301MDarkSmallOut.svg
+[24.028 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSWhiteMedSmall.svg
+[24.028 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSWhiteSmall.svg
+[24.028 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSGreenMed.svg
+[24.028 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSBlueMed.svg
+[24.028 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSRedMed.svg
+[24.028 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSGreenSmall.svg
+[24.028 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSBlueSmall.svg
+[24.028 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSRedSmall.svg
+[24.029 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/LightLEDButton80.svg
+[24.032 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/EricaCopies/res/fusion_delay.svg
+[24.033 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/EricaCopies/res/switch_0.svg
+[24.033 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/EricaCopies/res/switch_1.svg
+[24.033 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/EricaCopies/res/smallKnob.svg
+[24.033 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/EricaCopies/res/smallKnobShadow.svg
+[24.034 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/EricaCopies/res/jack.svg
+[24.034 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/PingPong.svg
+[24.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_PortIn_small.svg
+[24.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_5p_filtersel_01.svg
+[24.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_5p_filtersel_02.svg
+[24.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_5p_filtersel_03.svg
+[24.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_5p_filtersel_04.svg
+[24.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_5p_filtersel_05.svg
+[24.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_Knob_Green1_40.svg
+[24.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_Knob_Purp1_20.svg
+[24.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_Knob_Red1_20.svg
+[24.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_Knob_Yellow2_40.svg
+[24.036 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_PortOut_small.svg
+[24.036 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_Knob_Blue2_40.svg
+[24.036 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ChowDSP/res/ChowTape.svg
+[24.036 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ChowDSP/res/components/Knob.svg
+[24.036 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ChowDSP/res/components/Port.svg
+[24.037 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/VultModulesFree/res/Debriatus.svg
+[24.040 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/FLAG-Free/res/Electric-Ensemble.svg
+[24.040 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/FLAG-Free/res/components/flag_knob_10.svg
+[24.040 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/FLAG-Free/res/components/flag_knob_7.svg
+[24.041 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Hora-ProcessorsFree/res/Vacuumba.svg
+[24.041 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Hora-ProcessorsFree/res/TR808ScrewBlack.svg
+[24.042 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Hora-ProcessorsFree/res/Vacuum.svg
+[24.042 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Hora-ProcessorsFree/res/TR808BigKnob.svg
+[24.042 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Hora-ProcessorsFree/res/bigKnobShadow.svg
+[24.045 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Hora-ProcessorsFree/res/TR808TinyKnobRed.svg
+[24.045 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Hora-ProcessorsFree/res/knobShadow.svg
+[24.045 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Hora-ProcessorsFree/res/HexaJackPort.svg
+[24.047 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXDistortionPack/res/XFXTubePanel.svg
+[24.047 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXDistortionPack/res/XFXTubeSwitch0.svg
+[24.047 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXDistortionPack/res/XFXTubeSwitch1.svg
+[24.047 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXDistortionPack/res/XFXTubeSmallKnob.svg
+[24.047 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXDistortionPack/res/XFXTubeMediumKnob.svg
+[24.047 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXDistortionPack/res/XFXTubeLargeKnob.svg
+[24.047 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXDistortionPack/res/XFXTubePort.svg
+[24.287 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/AmalgamPanelDark.svg
+[24.288 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/AmalgamPanelLight.svg
+[24.288 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSWhiteMed.svg
+[24.288 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/DSEG14Classic-Italic.ttf
+[24.289 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/Compressor.svg
+[24.289 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_Knob_Yellow1_26.svg
+[24.289 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/mscHack/res/mschack_Knob_Blue2_26.svg
+[24.290 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/Lmtr-lowcontrast.svg
+[24.290 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/knob_38px-lowcontrast.svg
+[24.290 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/slider_switch_2_14px_0.svg
+[24.290 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/slider_switch_2_14px_1.svg
+[24.293 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-1.svg
+[24.293 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-input_def.svg
+[24.294 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-pot1_small.svg
+[24.294 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-knob_small_def.svg
+[24.294 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-output_def.svg
+[24.294 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-input_def_tinybuttonL.svg
+[24.294 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-input_def_tinybuttonL_dn.svg
+[24.294 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-TS_small_0.svg
+[24.294 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-TS_small_1.svg
+[24.295 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-input_bpm.svg
+[24.295 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-TS_smallh_0.svg
+[24.295 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-TS_smallh_1.svg
+[24.298 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-2.svg
+[24.298 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-knob_big_attn.svg
+[24.298 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-input_small.svg
+[24.298 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-knob_big_offset.svg
+[24.299 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/CatroModulo/res/CM-output_small.svg
+[24.301 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Befaco/res/Rampage.svg
+[24.301 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Befaco/res/Knurlie.svg
+[24.301 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/BefacoSwitch_0.svg
+[24.301 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/BefacoSwitch_1.svg
+[24.301 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/BefacoSwitch_2.svg
+[24.301 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/BefacoTinyKnob.svg
+[24.302 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/BefacoPush_0.svg
+[24.302 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/BefacoPush_1.svg
+[24.302 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/BefacoSlidePot.svg
+[24.302 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/BefacoSlidePotHandle.svg
+[24.302 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/Davies1900hWhite.svg
+[24.307 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AudibleInstruments/res/Stages.svg
+[24.307 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/Trimpot.svg
+[24.307 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/TL1105_0.svg
+[24.307 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/TL1105_1.svg
+[24.307 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSlider.svg
+[24.307 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderGreenHandle.svg
+[24.308 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/EightOne-lowcontrast.svg
+[24.308 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/knob_16px-lowcontrast.svg
+[24.308 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/knob_29px-lowcontrast.svg
+[24.311 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/Pgmr-lowcontrast.svg
+[24.311 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/button_9px_0.svg
+[24.311 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/button_9px_1_green.svg
+[24.311 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/knob_26px-lowcontrast.svg
+[24.312 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/squinkylabs-plug1/res/lfn_panel.svg
+[24.312 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/Rogan1PSBlue.svg
+[24.312 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/Slew-lowcontrast.svg
+[24.313 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Mental/res/MentalMults.svg
+[24.313 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Mental/res/components/InPort.svg
+[24.313 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Mental/res/components/OutPort.svg
+[24.329 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AudibleInstruments/res/Elements.svg
+[24.329 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/Rogan1PSWhite.svg
+[24.329 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/Rogan1PSRed.svg
+[24.329 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/Rogan1PSGreen.svg
+[24.330 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/Rogan3PSRed.svg
+[24.330 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/Rogan3PSGreen.svg
+[24.330 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/Rogan3PSWhite.svg
+[24.330 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/CKD6_0.svg
+[24.330 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/CKD6_1.svg
+[24.331 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/NANOModules/res/FONT.svg
+[24.331 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/Davies1900hLargeBlack.svg
+[24.332 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/VultModulesFree/res/Unstabile.svg
+[24.336 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/prism_Rainbow.svg
+[24.336 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/prism_button_0.svg
+[24.336 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/prism_button_1.svg
+[24.336 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/prism_Knob_S.svg
+[24.336 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/prism_Switch3_2-08.svg
+[24.337 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/prism_Switch3_3.svg
+[24.337 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/prism_Switch3_1.svg
+[24.337 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/prism_fader.svg
+[24.337 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/prism_Switch2_1.svg
+[24.337 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/prism_Switch3_2-11.svg
+[24.337 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/prism_Knob_L.svg
+[24.337 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/PrismSliderNop.svg
+[24.337 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/prism_triangle.svg
+[24.337 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/ComponentLibrary/prism_Jack.svg
+[24.337 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/Prism/res/RobotoCondensed-Regular.ttf
+[24.496 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/FelinePanelDark.svg
+[24.497 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/FelinePanelLight.svg
+[24.497 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/valleySliderBackground.svg
+[24.497 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/sliderOrange.svg
+[24.498 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/sliderBlue.svg
+[24.498 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/CKSS_0.svg
+[24.498 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/CKSS_1.svg
+[24.498 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSOrangeSmall.svg
+[24.507 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AudibleInstruments/res/Ripples.svg
+[24.507 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/Rogan2PSRed.svg
+[24.507 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/Rogan2PSGreen.svg
+[24.511 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXF35/res/XFXFilterPanel.svg
+[24.511 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXF35/res/Segment14.ttf
+[24.511 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXF35/res/XFXFilterMediumKnob.svg
+[24.511 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXF35/res/XFXFilterSmallKnob.svg
+[24.511 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXF35/res/XFXFilterPort.svg
+[24.511 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Blamsoft-XFXF35/res/XFXFilterLargeKnob.svg
+[24.514 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ZZC/res/panels/SC-VCA.svg
+[24.514 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ZZC/res/knobs/ZZC-Big-Knob.svg
+[24.515 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ZZC/res/knobs/ZZC-Big-Knob-Inner.svg
+[24.515 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ZZC/res/knobs/ZZC-Knob-25.svg
+[24.515 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ZZC/res/sockets/ZZC-PJ.svg
+[24.515 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ZZC/res/screws/ZZC-Screw.svg
+[24.516 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/VultModulesFree/res/Caudal.svg
+[24.517 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Fundamental/res/Noise.svg
+[24.517 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/digital-7.ttf
+[24.518 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/elements/LCDFrameDark.svg
+[24.518 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/elements/LCDFrameLight.svg
+[24.518 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/elements/LCDFrameAged.svg
+[24.519 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/panels/Noiser.svg
+[24.523 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/panels/NoiserLight.svg
+[24.527 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/panels/NoiserAged.svg
+[25.019 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/elements/ScrewDarkC.svg
+[25.019 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/elements/ScrewLightC.svg
+[25.020 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/elements/ScrewLightD.svg
+[25.020 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/knobs/AlternateBigKnob.svg
+[25.020 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/knobs/AlternateBigKnobLight.svg
+[25.020 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/knobs/AlternateBigKnobLight2.svg
+[25.020 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/knobs/AlternateBigKnobStatic.svg
+[25.020 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/knobs/AlternateBigKnobLightStatic.svg
+[25.020 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/knobs/SmallKnob.svg
+[25.020 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/knobs/AlternateSmallKnob.svg
+[25.020 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/knobs/AlternateSmallKnobStatic.svg
+[25.021 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/elements/IOPortC.svg
+[25.021 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/elements/IOPortCLight.svg
+[25.021 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/elements/IOPortB.svg
+[25.022 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LindenbergResearch/res/elements/IOPortBLight.svg
+[25.023 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Fundamental/res/VCMixer.svg
+[25.023 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/RoundLargeBlackKnob.svg
+[25.023 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderHandle.svg
+[25.023 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Fundamental/res/LEDSliderHandle.svg
+[25.023 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderHandle.svg
+[25.024 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderHandle.svg
+[25.024 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderHandle.svg
+[25.024 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderHandle.svg
+[25.024 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderHandle.svg
+[25.024 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderHandle.svg
+[25.024 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderHandle.svg
+[25.028 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/VultModulesFree/res/Flux.svg
+[25.028 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/VultModulesFree/res/01 Digit.ttf
+[25.032 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/PEQ6-lowcontrast.svg
+[25.032 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/button_9px_1.svg
+[25.033 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/AnalyzerXL.svg
+[25.033 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/fonts/inconsolata.ttf
+[25.034 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/Noise-lowcontrast.svg
+[25.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/MM_Tools/res/SHEight.svg
+[25.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/MM_Tools/res/trimmer.svg
+[25.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/MM_Tools/res/HSW_0.svg
+[25.035 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/MM_Tools/res/HSW_2.svg
+[25.036 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/MM_Tools/res/port.svg
+[25.037 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LomasModules/res/GateSequencer.svg
+[25.037 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LomasModules/res/Components/RubberButton.svg
+[25.037 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/LomasModules/res/Components/RubberButton1.svg
+[25.044 info src/main.cpp:189] Starting engine
+[25.044 info src/main.cpp:201] Running window
+[25.074 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[25.080 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[25.081 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Ohmer/res/components/XB_Port_Gold.svg
+[40.081 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[40.087 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[55.082 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[55.091 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[70.098 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[70.106 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[85.114 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[85.121 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[100.131 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[100.137 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[115.147 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[115.153 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[130.147 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[130.154 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[145.148 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[145.156 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[160.164 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[160.170 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[175.180 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[175.187 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[190.196 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[190.203 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[205.212 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[205.219 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[220.213 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[220.221 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[235.229 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[235.236 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[250.246 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[250.252 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[265.262 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[265.272 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[280.279 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[280.287 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[295.296 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[295.304 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[310.311 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[310.319 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[325.328 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[325.335 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[340.344 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[340.351 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[355.361 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[355.368 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[370.378 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[370.384 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[385.394 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[385.400 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[400.394 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[400.403 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[410.209 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Fundamental/res/Scope.svg
+[410.250 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/Fundamental/res/sudo/Sudo.ttf
+[410.250 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/RoundBlackKnob.svg
+[410.295 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ImpromptuModular/res/light/Clocked.svg
+[410.332 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ImpromptuModular/res/light/comp/ScrewSilver.svg
+[410.334 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ImpromptuModular/res/light/comp/PJ301M.svg
+[410.335 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ImpromptuModular/res/light/comp/BlackKnobLargeWithMark.svg
+[410.337 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/ImpromptuModular/res/fonts/Segment14.ttf
+[410.378 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDBezel.svg
+[410.379 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ImpromptuModular/res/light/comp/TL1105_0.svg
+[410.380 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ImpromptuModular/res/light/comp/TL1105_1.svg
+[410.382 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ImpromptuModular/res/light/comp/RoundSmallBlackKnob.svg
+[410.384 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ML_modules/res/Quantum.svg
+[410.385 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ML_modules/res/MLScrew.svg
+[410.426 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ML_modules/res/Jack.svg
+[410.428 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ML_modules/res/LEDButton_small.svg
+[410.430 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/Offset-lowcontrast.svg
+[410.433 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/FMOp-lowcontrast.svg
+[410.475 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/LFO-lowcontrast.svg
+[410.514 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/knob_68px-lowcontrast.svg
+[410.516 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/Mult-lowcontrast.svg
+[410.518 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/VCV-Recorder/res/Recorder.svg
+[410.520 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/VCV-Recorder/res/BlackKnob.svg
+[410.521 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/VCV-Recorder/res/RecButton.svg
+[410.575 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AudibleInstruments/res/Branches.svg
+[410.625 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/DexterPanelDark.svg
+[410.627 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo0.svg
+[410.670 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo1.svg
+[410.673 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo2.svg
+[410.675 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo3.svg
+[410.677 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo4.svg
+[410.679 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo5.svg
+[410.680 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo6.svg
+[410.682 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo7.svg
+[410.683 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo8.svg
+[410.685 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo9.svg
+[410.686 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo10.svg
+[410.688 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo11.svg
+[410.689 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo12.svg
+[410.691 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo13.svg
+[410.693 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo14.svg
+[410.694 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo15.svg
+[410.697 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo16.svg
+[410.699 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo17.svg
+[410.702 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo18.svg
+[410.704 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo19.svg
+[410.707 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo20.svg
+[410.709 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo21.svg
+[410.712 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo22.svg
+[410.715 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo0Dark.svg
+[410.717 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo1Dark.svg
+[410.719 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo2Dark.svg
+[410.720 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo3Dark.svg
+[410.722 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo4Dark.svg
+[410.723 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo5Dark.svg
+[410.725 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo6Dark.svg
+[410.727 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo7Dark.svg
+[410.728 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo8Dark.svg
+[410.730 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo9Dark.svg
+[410.731 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo10Dark.svg
+[410.733 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo11Dark.svg
+[410.734 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo12Dark.svg
+[410.736 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo13Dark.svg
+[410.738 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo14Dark.svg
+[410.740 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo15Dark.svg
+[410.742 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo16Dark.svg
+[410.745 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo17Dark.svg
+[410.747 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo18Dark.svg
+[410.749 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo19Dark.svg
+[410.752 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo20Dark.svg
+[410.754 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo21Dark.svg
+[410.756 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/algo22Dark.svg
+[410.759 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSBlueMedSmall.svg
+[410.761 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSOrangeMed.svg
+[410.763 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/din1451alt.ttf
+[410.764 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSPurpleMed.svg
+[410.766 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSMustardSmall.svg
+[410.767 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Valley/res/Rogan1PSPurpleSmall.svg
+[410.770 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Fundamental/res/Split.svg
+[410.811 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Fundamental/res/Merge.svg
+[410.813 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/ADSR-lowcontrast.svg
+[410.814 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderHandle.svg
+[410.814 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderHandle.svg
+[410.814 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderHandle.svg
+[410.814 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDSliderHandle.svg
+[410.816 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AS/res/Multiple2_5.svg
+[410.818 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AS/res/as-hexscrew.svg
+[410.820 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AS/res/as-PJ301M.svg
+[410.822 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AS/res/as_PJ301M_output_port.svg
+[410.863 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/VultModulesFree/res/Lateralus.svg
+[410.907 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/VultModulesFree/res/Slap.svg
+[410.913 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/VultModulesFree/res/Trummor2.svg
+[410.952 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ML_modules/res/BPMdetect.svg
+[410.955 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/ML_modules/res/Knob_28.svg
+[410.958 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/ML_modules/res/Segment7Standard.ttf
+[411.515 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/VCF-lowcontrast.svg
+[411.556 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/RGate-lowcontrast.svg
+[411.562 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AudibleInstruments/res/Kinks.svg
+[411.579 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AlrightDevices/res/chronoblob2.svg
+[411.581 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AlrightDevices/res/PB6149L-off.svg
+[411.583 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AlrightDevices/res/SSSF012100-left.svg
+[411.584 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AlrightDevices/res/SSSF012100-right.svg
+[411.627 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/Shaper-lowcontrast.svg
+[411.667 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/squinkylabs-plug1/res/basic-panel.svg
+[411.668 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/squinkylabs-plug1/res/Blue30.svg
+[411.671 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/VultModulesFree/res/Stabile.svg
+[411.679 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bogaudio/res/PEQ14-lowcontrast.svg
+[411.765 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AS/res/BPMClock.svg
+[411.766 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/AS/res/Segment7Standard.ttf
+[411.767 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AS/res/as-knobBlack.svg
+[411.805 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AS/res/as-knob.svg
+[411.848 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AS/res/BPMCalc.svg
+[411.850 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/AS/res/saxmono.ttf
+[411.889 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/AS/res/BPMCalc2.svg
+[411.929 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Autodafe/res/BPMClock.svg
+[411.968 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Autodafe/res/BtnUp.svg
+[412.009 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Autodafe/res/BtnDwn.svg
+[412.058 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/BarkTrimLFObpm.svg
+[412.060 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/components/BarkOutPort350.svg
+[412.102 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/components/BarkPatchPortOut.svg
+[412.104 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/components/BarkInPort350.svg
+[412.146 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/components/BarkKnob_60.svg
+[412.148 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/components/BarkScrew01.svg
+[412.151 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/components/BarkKnob_40.svg
+[412.193 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/components/BarkKnob_30.svg
+[412.195 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/components/Barkslider1.svg
+[412.197 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/components/BarksliderHandle1.svg
+[412.200 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/components/BarkSwitch_0.svg
+[412.203 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/components/BarkSwitch_1.svg
+[412.205 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/Bark/res/components/BarkButtonReset_0.svg
+[412.248 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/FrozenWasteland/res/BPMLFO.svg
+[412.289 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/FrozenWasteland/res/fonts/SUBWT___.ttf
+[412.331 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/FrozenWasteland/res/ComponentLibrary/RoundSmallFWKnob.svg
+[412.333 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/FrozenWasteland/res/ComponentLibrary/RoundReallySmallFWKnob.svg
+[412.334 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/LEDButton.svg
+[412.336 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/FrozenWasteland/res/ComponentLibrary/SmallInPort.svg
+[412.379 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/FrozenWasteland/res/BPMLFO2.svg
+[412.420 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/FrozenWasteland/res/BPMLFOPhaseExpander.svg
+[412.426 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/FrozenWasteland/res/ProbablyNoteBP.svg
+[412.466 info src/window.cpp:33] Loaded font /Users/andreyv/Documents/Rack/plugins-v1/FrozenWasteland/res/fonts/DejaVuSansMono.ttf
+[412.508 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/FrozenWasteland/res/ComponentLibrary/ReallySmallInPort.svg
+[412.550 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/RJModules/res/BPF.svg
+[412.553 info src/window.cpp:72] Loaded SVG /Applications/Rack.app/Contents/Resources/res/ComponentLibrary/RoundHugeBlackKnob.svg
+[412.595 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/RJModules/res/BPM.svg
+[412.637 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/SonusModular/res/yabp.svg
+[412.638 info src/window.cpp:72] Loaded SVG /Users/andreyv/Documents/Rack/plugins-v1/SonusModular/res/screw.svg
+[415.395 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[415.401 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[430.411 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[430.417 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[445.427 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[445.436 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[460.443 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[460.453 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[475.443 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[475.456 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[490.459 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[490.472 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[505.460 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[505.473 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[520.475 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[520.489 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[535.480 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[535.492 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[538.326 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/patches/fuckingaround/20210308_1_exploreNoise.vcv
+[550.492 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[550.507 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[565.509 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[565.519 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[580.524 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[580.533 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[595.525 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[595.541 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[610.541 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[610.552 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[625.542 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[625.553 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[640.574 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[640.592 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[655.590 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[655.600 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[670.591 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[670.608 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[685.607 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[685.619 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[700.623 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[700.631 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[715.623 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[715.640 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[730.640 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[730.658 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[745.640 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[745.657 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[760.656 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[760.669 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[775.689 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[775.704 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[790.705 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[790.717 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[805.723 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[805.732 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[820.738 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[820.748 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[835.756 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[835.764 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[850.773 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[850.781 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[865.788 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[865.794 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[880.804 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[880.811 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[895.804 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[895.816 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[901.404 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/patches/fuckingaround/20210308_1_exploreNoise.vcv
+[910.821 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[910.833 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[925.837 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[925.847 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[940.854 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[940.864 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[955.871 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[955.880 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[970.887 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[970.898 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[985.904 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[985.911 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1000.920 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1000.928 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1015.920 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1015.927 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1030.936 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1030.946 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1045.937 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1045.944 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1060.953 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1060.959 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1075.970 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1075.976 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1090.985 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1090.994 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1106.002 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1106.012 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1121.019 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1121.030 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1136.035 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1136.044 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1151.051 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1151.059 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1166.052 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1166.059 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1181.068 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1181.076 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1196.085 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1196.092 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1211.100 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1211.107 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1226.101 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1226.110 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1241.116 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1241.128 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1256.117 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1256.125 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1259.318 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/patches/fuckingaround/20210308_1_exploreNoise.vcv
+[1271.134 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1271.145 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1286.167 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1286.179 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1301.183 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1301.194 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1316.199 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1316.209 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1331.200 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1331.206 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1346.200 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1346.206 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1361.215 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1361.222 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1376.232 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1376.239 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1376.282 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/patches/fuckingaround/20210308_1_exploreNoise.vcv
+[1386.498 info src/main.cpp:203] Stopped window
+[1386.498 info src/main.cpp:205] Stopping engine
+[1386.499 info src/patch.cpp:86] Saving patch /Users/andreyv/Documents/Rack/autosave-v1.vcv
+[1386.506 info src/main.cpp:212] Destroying app
+[1386.517 info src/audio.cpp:302] Stopping RtAudio stream 4
+[1386.622 info src/audio.cpp:311] Closing RtAudio stream 4
+[1386.738 info src/settings.cpp:189] Saving settings /Users/andreyv/Documents/Rack/settings-v1.json
+[1386.739 info src/main.cpp:217] Destroying environment
+[1386.866 info src/bridge.cpp:365] Bridge server closed
+[1386.866 info src/main.cpp:225] Destroying logger

@@ -1,0 +1,180 @@
+{
+  "colors": [
+    {
+      "color": "#c9b70e",
+      "label": "CV",
+      "selected": 0.0
+    },
+    {
+      "color": "#0c8e15",
+      "label": "PITCH",
+      "selected": 0.0
+    },
+    {
+      "color": "#c91847",
+      "label": "AUDIO",
+      "selected": 1.0
+    },
+    {
+      "color": "#0986ad",
+      "label": "DEBUG",
+      "selected": 0.0
+    },
+    {
+      "color": "#ffaec9",
+      "label": "EXP",
+      "selected": 0.0
+    },
+    {
+      "color": "#b700b5",
+      "label": "LOGIC",
+      "selected": 0.0
+    },
+    {
+      "color": "#808080",
+      "label": "SIG",
+      "selected": 0.0
+    },
+    {
+      "color": "#ffffff",
+      "label": "RST",
+      "selected": 0.0
+    },
+    {
+      "color": "#100f12",
+      "label": "CLK",
+      "selected": 0.0
+    },
+    {
+      "color": "#ff9941",
+      "label": "GATE",
+      "selected": 0.0
+    },
+    {
+      "color": "#803610",
+      "label": "TRIG",
+      "selected": 0.0
+    }
+  ],
+  "highlight": 2.0,
+  "highlight_trans": 0.339000106,
+  "variation": 0.0,
+  "variationH": 0.0699999556,
+  "variationS": 0.0799999759,
+  "variationL": 0.0800000057,
+  "redo": 0.0,
+  "billboard": 1.0,
+  "collections": [
+    {
+      "name": "Modular Fungi",
+      "colors": [
+        "#c91847",
+        "#0986ad00",
+        "#c9b70e00",
+        "#0c8e1500"
+      ],
+      "labels": [
+        "Audio",
+        "Clk/Trig/Gate",
+        "Volt/Oct",
+        "Modulation"
+      ]
+    },
+    {
+      "name": "NYSTHI",
+      "colors": [
+        "#dddddd",
+        "#3c82dc00",
+        "#fad12d00",
+        "#dc781400",
+        "#80008000"
+      ],
+      "labels": [
+        "Audio",
+        "CV",
+        "Gate",
+        "Pulse/Trigger",
+        "Sync"
+      ]
+    },
+    {
+      "name": "TheXOR",
+      "colors": [
+        "#ff0000",
+        "#fffc0d00",
+        "#00800000",
+        "#f1f1f100",
+        "#00000000",
+        "#0000ff00",
+        "#ff555500"
+      ],
+      "labels": [
+        "Clock",
+        "Reset",
+        "CV",
+        "Gate",
+        "Modulation",
+        "Trigger",
+        "Expansion"
+      ]
+    },
+    {
+      "name": "Default",
+      "colors": [
+        "#c9b70e",
+        "#0c8e15",
+        "#c91847",
+        "#0986ad",
+        "#ffaec900",
+        "#b700b500",
+        "#80808000",
+        "#ffffff00",
+        "#100f1200",
+        "#ff994100",
+        "#80361000"
+      ],
+      "labels": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Guerrilla",
+      "colors": [
+        "#c9b70e",
+        "#0c8e1500",
+        "#c9184700",
+        "#0986ad00",
+        "#ffaec900",
+        "#b700b500",
+        "#80808000",
+        "#ffffff00",
+        "#100f1200",
+        "#ff994100",
+        "#80361000"
+      ],
+      "labels": [
+        "CV",
+        "PITCH",
+        "AUDIO",
+        "DEBUG",
+        "EXP",
+        "LOGIC",
+        "SIG",
+        "RST",
+        "CLK",
+        "GATE",
+        "TRIG"
+      ]
+    }
+  ]
+}

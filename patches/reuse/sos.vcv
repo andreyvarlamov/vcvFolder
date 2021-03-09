@@ -1,0 +1,5568 @@
+{
+  "version": "1.1.6",
+  "modules": [
+    {
+      "id": 399,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "AudioInterface",
+      "params": [],
+      "leftModuleId": 717,
+      "rightModuleId": 614,
+      "data": {
+        "audio": {
+          "driver": 5,
+          "deviceName": "Apple Inc.: MAMA",
+          "offset": 0,
+          "maxChannels": 8,
+          "sampleRate": 48000,
+          "blockSize": 1024
+        }
+      },
+      "pos": [
+        5,
+        0
+      ]
+    },
+    {
+      "id": 440,
+      "plugin": "Stoermelder-P1",
+      "version": "1.8.0",
+      "model": "Mb",
+      "params": [],
+      "data": {
+        "mode": 1
+      },
+      "pos": [
+        138,
+        3
+      ]
+    },
+    {
+      "id": 613,
+      "plugin": "AS",
+      "version": "1.0.4",
+      "model": "Multiple2_5",
+      "params": [],
+      "leftModuleId": 615,
+      "rightModuleId": 686,
+      "pos": [
+        61,
+        0
+      ]
+    },
+    {
+      "id": 614,
+      "plugin": "repelzen",
+      "version": "1.1.0",
+      "model": "rexmix",
+      "params": [
+        {
+          "id": 0,
+          "value": -16.8599815
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": -8.10000038
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": -4.0500102
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": -60.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": -4.19999981
+        },
+        {
+          "id": 17,
+          "value": -3.35999966
+        },
+        {
+          "id": 18,
+          "value": 5.57999849
+        },
+        {
+          "id": 19,
+          "value": -5.88000154
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 1.23750031
+        },
+        {
+          "id": 23,
+          "value": 4.64999866
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 4.05000019
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": -2.56499934
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 0.0
+        },
+        {
+          "id": 31,
+          "value": 11.2050018
+        },
+        {
+          "id": 32,
+          "value": -1.84500003
+        },
+        {
+          "id": 33,
+          "value": 0.0
+        },
+        {
+          "id": 34,
+          "value": 0.0
+        },
+        {
+          "id": 35,
+          "value": 0.0
+        },
+        {
+          "id": 36,
+          "value": 0.0
+        },
+        {
+          "id": 37,
+          "value": 0.0
+        },
+        {
+          "id": 38,
+          "value": 0.0
+        },
+        {
+          "id": 39,
+          "value": 0.0
+        },
+        {
+          "id": 40,
+          "value": 0.291000158
+        },
+        {
+          "id": 41,
+          "value": 0.0885000452
+        },
+        {
+          "id": 42,
+          "value": 0.0
+        },
+        {
+          "id": 43,
+          "value": 0.0
+        },
+        {
+          "id": 44,
+          "value": 0.0
+        },
+        {
+          "id": 45,
+          "value": 0.0
+        },
+        {
+          "id": 46,
+          "value": 0.130500004
+        },
+        {
+          "id": 47,
+          "value": 0.252000064
+        },
+        {
+          "id": 48,
+          "value": 0.0
+        },
+        {
+          "id": 49,
+          "value": 0.0
+        },
+        {
+          "id": 50,
+          "value": 0.0
+        },
+        {
+          "id": 51,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 399,
+      "rightModuleId": 687,
+      "pos": [
+        15,
+        0
+      ]
+    },
+    {
+      "id": 615,
+      "plugin": "AudibleInstruments",
+      "version": "1.5.0",
+      "model": "Stages",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 0.5
+        },
+        {
+          "id": 4,
+          "value": 0.5
+        },
+        {
+          "id": 5,
+          "value": 0.5
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.5
+        },
+        {
+          "id": 13,
+          "value": 1.0
+        },
+        {
+          "id": 14,
+          "value": 0.780998528
+        },
+        {
+          "id": 15,
+          "value": 0.5
+        },
+        {
+          "id": 16,
+          "value": 0.383000433
+        },
+        {
+          "id": 17,
+          "value": 0.5
+        }
+      ],
+      "leftModuleId": 687,
+      "rightModuleId": 613,
+      "data": {
+        "configurations": [
+          {
+            "type": 0,
+            "loop": true
+          },
+          {
+            "type": 0,
+            "loop": true
+          },
+          {
+            "type": 0,
+            "loop": true
+          },
+          {
+            "type": 0,
+            "loop": false
+          },
+          {
+            "type": 0,
+            "loop": true
+          },
+          {
+            "type": 0,
+            "loop": true
+          }
+        ]
+      },
+      "pos": [
+        47,
+        0
+      ]
+    },
+    {
+      "id": 618,
+      "plugin": "AudibleInstruments",
+      "version": "1.5.0",
+      "model": "Stages",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.59349972
+        },
+        {
+          "id": 1,
+          "value": 0.709000289
+        },
+        {
+          "id": 2,
+          "value": 0.5
+        },
+        {
+          "id": 3,
+          "value": 0.5
+        },
+        {
+          "id": 4,
+          "value": 0.5
+        },
+        {
+          "id": 5,
+          "value": 0.5
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.159000263
+        },
+        {
+          "id": 13,
+          "value": 0.296999186
+        },
+        {
+          "id": 14,
+          "value": 0.0809999853
+        },
+        {
+          "id": 15,
+          "value": 0.314000368
+        },
+        {
+          "id": 16,
+          "value": 0.0499999896
+        },
+        {
+          "id": 17,
+          "value": 0.518000007
+        }
+      ],
+      "leftModuleId": 686,
+      "rightModuleId": 705,
+      "data": {
+        "configurations": [
+          {
+            "type": 0,
+            "loop": false
+          },
+          {
+            "type": 0,
+            "loop": true
+          },
+          {
+            "type": 0,
+            "loop": false
+          },
+          {
+            "type": 0,
+            "loop": true
+          },
+          {
+            "type": 0,
+            "loop": false
+          },
+          {
+            "type": 0,
+            "loop": false
+          }
+        ]
+      },
+      "pos": [
+        71,
+        0
+      ]
+    },
+    {
+      "id": 621,
+      "plugin": "AudibleInstruments",
+      "version": "1.5.0",
+      "model": "Stages",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.723499954
+        },
+        {
+          "id": 1,
+          "value": 0.709999919
+        },
+        {
+          "id": 2,
+          "value": 0.822999954
+        },
+        {
+          "id": 3,
+          "value": 0.5
+        },
+        {
+          "id": 4,
+          "value": 0.5
+        },
+        {
+          "id": 5,
+          "value": 1.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0560000613
+        },
+        {
+          "id": 13,
+          "value": 0.403999865
+        },
+        {
+          "id": 14,
+          "value": 0.18599993
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.406999916
+        },
+        {
+          "id": 17,
+          "value": 0.170000359
+        }
+      ],
+      "leftModuleId": 708,
+      "data": {
+        "configurations": [
+          {
+            "type": 0,
+            "loop": false
+          },
+          {
+            "type": 0,
+            "loop": false
+          },
+          {
+            "type": 0,
+            "loop": false
+          },
+          {
+            "type": 0,
+            "loop": false
+          },
+          {
+            "type": 0,
+            "loop": false
+          },
+          {
+            "type": 0,
+            "loop": false
+          }
+        ]
+      },
+      "pos": [
+        100,
+        0
+      ]
+    },
+    {
+      "id": 623,
+      "plugin": "Valley",
+      "version": "1.1.7",
+      "model": "Plateau",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 6.85000038
+        },
+        {
+          "id": 4,
+          "value": 10.0
+        },
+        {
+          "id": 5,
+          "value": 0.5
+        },
+        {
+          "id": 6,
+          "value": 10.0
+        },
+        {
+          "id": 7,
+          "value": 0.761876464
+        },
+        {
+          "id": 8,
+          "value": 10.0
+        },
+        {
+          "id": 9,
+          "value": 6.62500048
+        },
+        {
+          "id": 10,
+          "value": 0.108000025
+        },
+        {
+          "id": 11,
+          "value": 0.5
+        },
+        {
+          "id": 12,
+          "value": 4.14800406
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 0.0
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 1.0
+        }
+      ],
+      "rightModuleId": 624,
+      "data": {
+        "frozen": false,
+        "freezeToggle": false,
+        "panelStyle": 1,
+        "tuned": 0,
+        "diffuseInput": 1,
+        "preDelayCVSens": 0,
+        "inputSensitivity": 0,
+        "outputSaturation": 0
+      },
+      "pos": [
+        5,
+        2
+      ]
+    },
+    {
+      "id": 624,
+      "plugin": "AlrightDevices",
+      "version": "1.0.3",
+      "model": "Chronoblob2",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.5
+        },
+        {
+          "id": 1,
+          "value": 0.791000187
+        },
+        {
+          "id": 2,
+          "value": 0.5
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 623,
+      "rightModuleId": 693,
+      "data": {
+        "delay_mode": 2,
+        "hold_behavior": 0,
+        "sync_prescaler": 6
+      },
+      "pos": [
+        17,
+        2
+      ]
+    },
+    {
+      "id": 626,
+      "plugin": "Blamsoft-XFXF35",
+      "version": "1.0.0",
+      "model": "Blamsoft-XFXF35",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.648000479
+        },
+        {
+          "id": 1,
+          "value": 0.5
+        },
+        {
+          "id": 2,
+          "value": 0.731501222
+        },
+        {
+          "id": 3,
+          "value": 0.5
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.5
+        },
+        {
+          "id": 6,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 627,
+      "rightModuleId": 629,
+      "data": {
+        "mode": 27
+      },
+      "pos": [
+        67,
+        2
+      ]
+    },
+    {
+      "id": 627,
+      "plugin": "AS",
+      "version": "1.0.4",
+      "model": "Multiple2_5",
+      "params": [],
+      "leftModuleId": 641,
+      "rightModuleId": 626,
+      "pos": [
+        62,
+        2
+      ]
+    },
+    {
+      "id": 628,
+      "plugin": "AS",
+      "version": "1.0.4",
+      "model": "Multiple2_5",
+      "params": [],
+      "leftModuleId": 647,
+      "pos": [
+        109,
+        1
+      ]
+    },
+    {
+      "id": 629,
+      "plugin": "Valley",
+      "version": "1.1.7",
+      "model": "Feline",
+      "params": [
+        {
+          "id": 0,
+          "value": 7.93000555
+        },
+        {
+          "id": 1,
+          "value": 1.58999968
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.149999991
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.394500256
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.147000223
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 626,
+      "rightModuleId": 704,
+      "data": {
+        "panelStyle": 0
+      },
+      "pos": [
+        81,
+        2
+      ]
+    },
+    {
+      "id": 630,
+      "plugin": "MM_Tools",
+      "version": "1.0.2",
+      "model": "SHEight",
+      "params": [
+        {
+          "id": 0,
+          "value": 120.0
+        },
+        {
+          "id": 1,
+          "value": 100.0
+        },
+        {
+          "id": 2,
+          "value": 100.0
+        },
+        {
+          "id": 3,
+          "value": 84.8499985
+        },
+        {
+          "id": 4,
+          "value": 100.0
+        },
+        {
+          "id": 5,
+          "value": 100.0
+        },
+        {
+          "id": 6,
+          "value": 100.0
+        },
+        {
+          "id": 7,
+          "value": 100.0
+        },
+        {
+          "id": 8,
+          "value": 100.0
+        },
+        {
+          "id": 9,
+          "value": 1.0
+        },
+        {
+          "id": 10,
+          "value": 1.0
+        },
+        {
+          "id": 11,
+          "value": 1.0
+        },
+        {
+          "id": 12,
+          "value": 1.0
+        },
+        {
+          "id": 13,
+          "value": 1.0
+        },
+        {
+          "id": 14,
+          "value": 1.0
+        },
+        {
+          "id": 15,
+          "value": 1.0
+        },
+        {
+          "id": 16,
+          "value": 1.0
+        },
+        {
+          "id": 17,
+          "value": -5.0
+        },
+        {
+          "id": 18,
+          "value": -5.0
+        },
+        {
+          "id": 19,
+          "value": -5.0
+        },
+        {
+          "id": 20,
+          "value": -5.0
+        },
+        {
+          "id": 21,
+          "value": -5.0
+        },
+        {
+          "id": 22,
+          "value": -5.0
+        },
+        {
+          "id": 23,
+          "value": -5.0
+        },
+        {
+          "id": 24,
+          "value": -5.0
+        },
+        {
+          "id": 25,
+          "value": 5.0
+        },
+        {
+          "id": 26,
+          "value": 5.0
+        },
+        {
+          "id": 27,
+          "value": 5.0
+        },
+        {
+          "id": 28,
+          "value": 5.0
+        },
+        {
+          "id": 29,
+          "value": 5.0
+        },
+        {
+          "id": 30,
+          "value": 5.0
+        },
+        {
+          "id": 31,
+          "value": 5.0
+        },
+        {
+          "id": 32,
+          "value": 5.0
+        },
+        {
+          "id": 33,
+          "value": 0.0
+        },
+        {
+          "id": 34,
+          "value": 0.0
+        },
+        {
+          "id": 35,
+          "value": 0.0
+        },
+        {
+          "id": 36,
+          "value": 0.0
+        },
+        {
+          "id": 37,
+          "value": 0.0
+        },
+        {
+          "id": 38,
+          "value": 0.0
+        },
+        {
+          "id": 39,
+          "value": 0.0
+        },
+        {
+          "id": 40,
+          "value": 0.0
+        },
+        {
+          "id": 41,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 634,
+      "pos": [
+        5,
+        1
+      ]
+    },
+    {
+      "id": 634,
+      "plugin": "squinkylabs-plug1",
+      "version": "1.0.15",
+      "model": "squinkylabs-basic",
+      "params": [
+        {
+          "id": 0,
+          "value": 2.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 50.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 630,
+      "rightModuleId": 636,
+      "pos": [
+        21,
+        1
+      ]
+    },
+    {
+      "id": 635,
+      "plugin": "MockbaModular",
+      "version": "1.2.1",
+      "model": "Filtah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 100.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 637,
+      "rightModuleId": 716,
+      "pos": [
+        34,
+        1
+      ]
+    },
+    {
+      "id": 636,
+      "plugin": "squinkylabs-plug1",
+      "version": "1.0.15",
+      "model": "squinkylabs-basic",
+      "params": [
+        {
+          "id": 0,
+          "value": 4.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 50.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 634,
+      "rightModuleId": 692,
+      "pos": [
+        24,
+        1
+      ]
+    },
+    {
+      "id": 637,
+      "plugin": "MockbaModular",
+      "version": "1.2.1",
+      "model": "Filtah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 100.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 639,
+      "rightModuleId": 635,
+      "pos": [
+        32,
+        1
+      ]
+    },
+    {
+      "id": 639,
+      "plugin": "MockbaModular",
+      "version": "1.2.1",
+      "model": "Filtah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 100.0
+        },
+        {
+          "id": 2,
+          "value": 0.288150102
+        },
+        {
+          "id": 3,
+          "value": 25.0
+        }
+      ],
+      "leftModuleId": 692,
+      "rightModuleId": 637,
+      "pos": [
+        30,
+        1
+      ]
+    },
+    {
+      "id": 640,
+      "plugin": "Bogaudio",
+      "version": "1.1.37",
+      "model": "Bogaudio-Noise",
+      "params": [],
+      "leftModuleId": 691,
+      "rightModuleId": 642,
+      "data": {
+        "poly_channels": 1
+      },
+      "pos": [
+        62,
+        1
+      ]
+    },
+    {
+      "id": 641,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Scope",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": -10.0
+        },
+        {
+          "id": 4,
+          "value": 6.73498964
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 694,
+      "rightModuleId": 627,
+      "data": {
+        "lissajous": 0,
+        "external": 0
+      },
+      "pos": [
+        49,
+        2
+      ]
+    },
+    {
+      "id": 642,
+      "plugin": "AS",
+      "version": "1.0.4",
+      "model": "Multiple2_5",
+      "params": [],
+      "leftModuleId": 640,
+      "rightModuleId": 696,
+      "pos": [
+        65,
+        1
+      ]
+    },
+    {
+      "id": 645,
+      "plugin": "Befaco",
+      "version": "1.0.1",
+      "model": "Mixer",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 700,
+      "rightModuleId": 695,
+      "pos": [
+        89,
+        1
+      ]
+    },
+    {
+      "id": 646,
+      "plugin": "Befaco",
+      "version": "1.0.1",
+      "model": "DualAtenuverter",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.679000378
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 10.0
+        }
+      ],
+      "leftModuleId": 695,
+      "rightModuleId": 647,
+      "pos": [
+        99,
+        1
+      ]
+    },
+    {
+      "id": 647,
+      "plugin": "Befaco",
+      "version": "1.0.1",
+      "model": "DualAtenuverter",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.386999905
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 646,
+      "rightModuleId": 628,
+      "pos": [
+        104,
+        1
+      ]
+    },
+    {
+      "id": 678,
+      "plugin": "Bogaudio",
+      "version": "1.1.37",
+      "model": "Bogaudio-Offset",
+      "params": [
+        {
+          "id": 0,
+          "value": -0.5
+        },
+        {
+          "id": 1,
+          "value": 0.353553355
+        }
+      ],
+      "leftModuleId": 705,
+      "rightModuleId": 706,
+      "data": {
+        "disableOutputLimit": false,
+        "offset_first": false
+      },
+      "pos": [
+        87,
+        0
+      ]
+    },
+    {
+      "id": 686,
+      "plugin": "Bogaudio",
+      "version": "1.1.37",
+      "model": "Bogaudio-RGate",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.5
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 613,
+      "rightModuleId": 618,
+      "data": {
+        "range_offset": 1.0,
+        "range_scale": 5.0,
+        "reset_mode": 0,
+        "initial_clock_seconds": 0.5,
+        "poly_input": 4
+      },
+      "pos": [
+        66,
+        0
+      ]
+    },
+    {
+      "id": 687,
+      "plugin": "JW-Modules",
+      "version": "1.0.21",
+      "model": "SimpleClock",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0569624677
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": -2.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 614,
+      "rightModuleId": 615,
+      "data": {
+        "clockMult": 1,
+        "running": true
+      },
+      "pos": [
+        43,
+        0
+      ]
+    },
+    {
+      "id": 691,
+      "plugin": "AudibleInstruments",
+      "version": "1.5.0",
+      "model": "Rings",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 30.0
+        },
+        {
+          "id": 3,
+          "value": 0.5
+        },
+        {
+          "id": 4,
+          "value": 0.383999705
+        },
+        {
+          "id": 5,
+          "value": 0.747499049
+        },
+        {
+          "id": 6,
+          "value": 0.267500013
+        },
+        {
+          "id": 7,
+          "value": 0.275999963
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.816000581
+        }
+      ],
+      "leftModuleId": 716,
+      "rightModuleId": 640,
+      "data": {
+        "polyphony": 1,
+        "model": 0,
+        "easterEgg": false
+      },
+      "pos": [
+        48,
+        1
+      ]
+    },
+    {
+      "id": 692,
+      "plugin": "squinkylabs-plug1",
+      "version": "1.0.15",
+      "model": "squinkylabs-basic",
+      "params": [
+        {
+          "id": 0,
+          "value": 4.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 50.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 636,
+      "rightModuleId": 639,
+      "pos": [
+        27,
+        1
+      ]
+    },
+    {
+      "id": 693,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "VCMixer",
+      "params": [
+        {
+          "id": 0,
+          "value": 2.0
+        },
+        {
+          "id": 1,
+          "value": 1.41421354
+        },
+        {
+          "id": 2,
+          "value": 1.41421354
+        },
+        {
+          "id": 3,
+          "value": 1.41421354
+        },
+        {
+          "id": 4,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 624,
+      "rightModuleId": 694,
+      "pos": [
+        29,
+        2
+      ]
+    },
+    {
+      "id": 694,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "VCMixer",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 1.0
+        },
+        {
+          "id": 4,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 693,
+      "rightModuleId": 641,
+      "pos": [
+        39,
+        2
+      ]
+    },
+    {
+      "id": 695,
+      "plugin": "Befaco",
+      "version": "1.0.1",
+      "model": "DualAtenuverter",
+      "params": [
+        {
+          "id": 0,
+          "value": -0.053999126
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.789001167
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 645,
+      "rightModuleId": 646,
+      "pos": [
+        94,
+        1
+      ]
+    },
+    {
+      "id": 696,
+      "plugin": "Chiptuner",
+      "version": "1.0.0",
+      "model": "Blank1HP",
+      "params": [],
+      "leftModuleId": 642,
+      "rightModuleId": 698,
+      "style": 1.0,
+      "pos": [
+        70,
+        1
+      ]
+    },
+    {
+      "id": 698,
+      "plugin": "repelzen",
+      "version": "1.1.0",
+      "model": "rewin",
+      "params": [
+        {
+          "id": 0,
+          "value": -1.0
+        },
+        {
+          "id": 1,
+          "value": -2.0
+        },
+        {
+          "id": 2,
+          "value": -2.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 696,
+      "rightModuleId": 699,
+      "data": {
+        "notes": [
+          true,
+          false,
+          true,
+          false,
+          true,
+          false,
+          false,
+          true,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "mode": 0
+      },
+      "pos": [
+        71,
+        1
+      ]
+    },
+    {
+      "id": 699,
+      "plugin": "repelzen",
+      "version": "1.1.0",
+      "model": "retrig",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 698,
+      "rightModuleId": 700,
+      "pos": [
+        79,
+        1
+      ]
+    },
+    {
+      "id": 700,
+      "plugin": "AudibleInstruments",
+      "version": "1.5.0",
+      "model": "Branches",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.5
+        },
+        {
+          "id": 1,
+          "value": 0.5
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 699,
+      "rightModuleId": 645,
+      "data": {
+        "modes": [
+          false,
+          false
+        ]
+      },
+      "pos": [
+        83,
+        1
+      ]
+    },
+    {
+      "id": 704,
+      "plugin": "ImpromptuModular",
+      "version": "1.1.10",
+      "model": "Gate-Seq-64",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 0.0
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 0.0
+        },
+        {
+          "id": 31,
+          "value": 0.0
+        },
+        {
+          "id": 32,
+          "value": 0.0
+        },
+        {
+          "id": 33,
+          "value": 0.0
+        },
+        {
+          "id": 34,
+          "value": 0.0
+        },
+        {
+          "id": 35,
+          "value": 0.0
+        },
+        {
+          "id": 36,
+          "value": 0.0
+        },
+        {
+          "id": 37,
+          "value": 0.0
+        },
+        {
+          "id": 38,
+          "value": 0.0
+        },
+        {
+          "id": 39,
+          "value": 0.0
+        },
+        {
+          "id": 40,
+          "value": 0.0
+        },
+        {
+          "id": 41,
+          "value": 0.0
+        },
+        {
+          "id": 42,
+          "value": 0.0
+        },
+        {
+          "id": 43,
+          "value": 0.0
+        },
+        {
+          "id": 44,
+          "value": 0.0
+        },
+        {
+          "id": 45,
+          "value": 0.0
+        },
+        {
+          "id": 46,
+          "value": 0.0
+        },
+        {
+          "id": 47,
+          "value": 0.0
+        },
+        {
+          "id": 48,
+          "value": 0.0
+        },
+        {
+          "id": 49,
+          "value": 0.0
+        },
+        {
+          "id": 50,
+          "value": 0.0
+        },
+        {
+          "id": 51,
+          "value": 0.0
+        },
+        {
+          "id": 52,
+          "value": 0.0
+        },
+        {
+          "id": 53,
+          "value": 0.0
+        },
+        {
+          "id": 54,
+          "value": 0.0
+        },
+        {
+          "id": 55,
+          "value": 0.0
+        },
+        {
+          "id": 56,
+          "value": 0.0
+        },
+        {
+          "id": 57,
+          "value": 0.0
+        },
+        {
+          "id": 58,
+          "value": 0.0
+        },
+        {
+          "id": 59,
+          "value": 0.0
+        },
+        {
+          "id": 60,
+          "value": 0.0
+        },
+        {
+          "id": 61,
+          "value": 0.0
+        },
+        {
+          "id": 62,
+          "value": 0.0
+        },
+        {
+          "id": 63,
+          "value": 0.0
+        },
+        {
+          "id": 64,
+          "value": 0.0
+        },
+        {
+          "id": 65,
+          "value": 0.0
+        },
+        {
+          "id": 66,
+          "value": 0.0
+        },
+        {
+          "id": 67,
+          "value": 0.0
+        },
+        {
+          "id": 68,
+          "value": 0.0
+        },
+        {
+          "id": 69,
+          "value": 0.0
+        },
+        {
+          "id": 70,
+          "value": 0.0
+        },
+        {
+          "id": 71,
+          "value": 1.0
+        },
+        {
+          "id": 73,
+          "value": 2.0
+        },
+        {
+          "id": 74,
+          "value": 0.0
+        },
+        {
+          "id": 75,
+          "value": 0.0
+        },
+        {
+          "id": 76,
+          "value": 0.0
+        },
+        {
+          "id": 77,
+          "value": 0.0
+        },
+        {
+          "id": 78,
+          "value": 0.0
+        },
+        {
+          "id": 79,
+          "value": 0.0
+        },
+        {
+          "id": 80,
+          "value": 0.0
+        },
+        {
+          "id": 81,
+          "value": 0.0
+        },
+        {
+          "id": 82,
+          "value": 0.0
+        },
+        {
+          "id": 83,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 629,
+      "rightModuleId": 710,
+      "data": {
+        "panelTheme": 0,
+        "autoseq": false,
+        "seqCVmethod": 0,
+        "pulsesPerStep": 1,
+        "running": true,
+        "runModeSong3": 0,
+        "stepIndexEdit": 45,
+        "phraseIndexEdit": 0,
+        "sequence": 0,
+        "phrases": 4,
+        "attributes2": [
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          562,
+          50,
+          50,
+          562,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          562,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "sequences": [
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16
+        ],
+        "phrase2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "resetOnRun": false,
+        "stopAtEndOfSong": false,
+        "lock": false
+      },
+      "pos": [
+        89,
+        2
+      ]
+    },
+    {
+      "id": 705,
+      "plugin": "GrandeModular",
+      "version": "1.7.1",
+      "model": "MergeSplit4",
+      "params": [],
+      "leftModuleId": 618,
+      "rightModuleId": 678,
+      "data": {
+        "channels_merge": -1
+      },
+      "pos": [
+        85,
+        0
+      ]
+    },
+    {
+      "id": 706,
+      "plugin": "GrandeModular",
+      "version": "1.7.1",
+      "model": "MergeSplit4",
+      "params": [],
+      "leftModuleId": 678,
+      "rightModuleId": 707,
+      "data": {
+        "channels_merge": -1
+      },
+      "pos": [
+        90,
+        0
+      ]
+    },
+    {
+      "id": 707,
+      "plugin": "Bogaudio",
+      "version": "1.1.37",
+      "model": "Bogaudio-Offset",
+      "params": [
+        {
+          "id": 0,
+          "value": -0.5
+        },
+        {
+          "id": 1,
+          "value": 0.353553355
+        }
+      ],
+      "leftModuleId": 706,
+      "rightModuleId": 709,
+      "data": {
+        "disableOutputLimit": false,
+        "offset_first": false
+      },
+      "pos": [
+        92,
+        0
+      ]
+    },
+    {
+      "id": 708,
+      "plugin": "Bogaudio",
+      "version": "1.1.37",
+      "model": "Bogaudio-Offset",
+      "params": [
+        {
+          "id": 0,
+          "value": -0.5
+        },
+        {
+          "id": 1,
+          "value": 0.353553355
+        }
+      ],
+      "leftModuleId": 709,
+      "rightModuleId": 621,
+      "data": {
+        "disableOutputLimit": false,
+        "offset_first": false
+      },
+      "pos": [
+        97,
+        0
+      ]
+    },
+    {
+      "id": 709,
+      "plugin": "GrandeModular",
+      "version": "1.7.1",
+      "model": "MergeSplit4",
+      "params": [],
+      "leftModuleId": 707,
+      "rightModuleId": 708,
+      "data": {
+        "channels_merge": -1
+      },
+      "pos": [
+        95,
+        0
+      ]
+    },
+    {
+      "id": 710,
+      "plugin": "ModularFungi",
+      "version": "1.1.4",
+      "model": "Blank1HP",
+      "params": [],
+      "leftModuleId": 704,
+      "style": 1.0,
+      "pos": [
+        113,
+        2
+      ]
+    },
+    {
+      "id": 716,
+      "plugin": "AudibleInstruments",
+      "version": "1.5.0",
+      "model": "Plaits",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 0.25
+        },
+        {
+          "id": 4,
+          "value": 0.43350026
+        },
+        {
+          "id": 5,
+          "value": 0.694500864
+        },
+        {
+          "id": 6,
+          "value": -0.288000435
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.5
+        },
+        {
+          "id": 10,
+          "value": 0.5
+        }
+      ],
+      "leftModuleId": 635,
+      "rightModuleId": 691,
+      "data": {
+        "lowCpu": false,
+        "model": 13
+      },
+      "pos": [
+        36,
+        1
+      ]
+    },
+    {
+      "id": 717,
+      "plugin": "VCV-Recorder",
+      "version": "1.1.0",
+      "model": "Recorder",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 399,
+      "data": {
+        "format": "wav",
+        "path": "/Users/andreyv/Documents/Rack/patches/bounces/20210306_1_sos_tryout.wav",
+        "incrementPath": true,
+        "sampleRate": 48000,
+        "depth": 16,
+        "bitRate": 256000,
+        "videoBitRate": 2048000
+      },
+      "pos": [
+        0,
+        0
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 80,
+      "outputModuleId": 613,
+      "outputId": 9,
+      "inputModuleId": 613,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 98,
+      "outputModuleId": 614,
+      "outputId": 0,
+      "inputModuleId": 399,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 100,
+      "outputModuleId": 614,
+      "outputId": 2,
+      "inputModuleId": 623,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 101,
+      "outputModuleId": 614,
+      "outputId": 3,
+      "inputModuleId": 623,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 102,
+      "outputModuleId": 623,
+      "outputId": 0,
+      "inputModuleId": 614,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 103,
+      "outputModuleId": 623,
+      "outputId": 1,
+      "inputModuleId": 614,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 104,
+      "outputModuleId": 614,
+      "outputId": 4,
+      "inputModuleId": 624,
+      "inputId": 5,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 105,
+      "outputModuleId": 614,
+      "outputId": 5,
+      "inputModuleId": 624,
+      "inputId": 6,
+      "color": "#c91847"
+    },
+    {
+      "id": 106,
+      "outputModuleId": 624,
+      "outputId": 0,
+      "inputModuleId": 614,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 107,
+      "outputModuleId": 624,
+      "outputId": 1,
+      "inputModuleId": 614,
+      "inputId": 3,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 97,
+      "outputModuleId": 687,
+      "outputId": 0,
+      "inputModuleId": 613,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 108,
+      "outputModuleId": 613,
+      "outputId": 0,
+      "inputModuleId": 615,
+      "inputId": 6,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 109,
+      "outputModuleId": 613,
+      "outputId": 1,
+      "inputModuleId": 624,
+      "inputId": 7,
+      "color": "#c91847"
+    },
+    {
+      "id": 128,
+      "outputModuleId": 615,
+      "outputId": 0,
+      "inputModuleId": 642,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 133,
+      "outputModuleId": 642,
+      "outputId": 0,
+      "inputModuleId": 618,
+      "inputId": 6,
+      "color": "#c91847"
+    },
+    {
+      "id": 134,
+      "outputModuleId": 642,
+      "outputId": 1,
+      "inputModuleId": 618,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 136,
+      "outputModuleId": 618,
+      "outputId": 3,
+      "inputModuleId": 695,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 137,
+      "outputModuleId": 695,
+      "outputId": 0,
+      "inputModuleId": 618,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 141,
+      "outputModuleId": 642,
+      "outputId": 3,
+      "inputModuleId": 615,
+      "inputId": 7,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 144,
+      "outputModuleId": 698,
+      "outputId": 0,
+      "inputModuleId": 699,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 149,
+      "outputModuleId": 630,
+      "outputId": 1,
+      "inputModuleId": 695,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 150,
+      "outputModuleId": 695,
+      "outputId": 1,
+      "inputModuleId": 698,
+      "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 152,
+      "outputModuleId": 699,
+      "outputId": 0,
+      "inputModuleId": 716,
+      "inputId": 5,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 153,
+      "outputModuleId": 698,
+      "outputId": 0,
+      "inputModuleId": 716,
+      "inputId": 7,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 158,
+      "outputModuleId": 613,
+      "outputId": 2,
+      "inputModuleId": 615,
+      "inputId": 8,
+      "color": "#c91847"
+    },
+    {
+      "id": 159,
+      "outputModuleId": 613,
+      "outputId": 8,
+      "inputModuleId": 615,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 160,
+      "outputModuleId": 615,
+      "outputId": 2,
+      "inputModuleId": 630,
+      "inputId": 10,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 138,
+      "outputModuleId": 642,
+      "outputId": 5,
+      "inputModuleId": 630,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 161,
+      "outputModuleId": 618,
+      "outputId": 1,
+      "inputModuleId": 642,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 156,
+      "outputModuleId": 716,
+      "outputId": 0,
+      "inputModuleId": 627,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 167,
+      "outputModuleId": 646,
+      "outputId": 0,
+      "inputModuleId": 698,
+      "inputId": 3,
+      "color": "#c91847"
+    },
+    {
+      "id": 168,
+      "outputModuleId": 698,
+      "outputId": 1,
+      "inputModuleId": 699,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 165,
+      "outputModuleId": 698,
+      "outputId": 1,
+      "inputModuleId": 691,
+      "inputId": 6,
+      "color": "#c91847"
+    },
+    {
+      "id": 169,
+      "outputModuleId": 699,
+      "outputId": 1,
+      "inputModuleId": 691,
+      "inputId": 5,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 170,
+      "outputModuleId": 691,
+      "outputId": 0,
+      "inputModuleId": 614,
+      "inputId": 5,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 162,
+      "outputModuleId": 642,
+      "outputId": 6,
+      "inputModuleId": 630,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 173,
+      "outputModuleId": 630,
+      "outputId": 2,
+      "inputModuleId": 646,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 174,
+      "outputModuleId": 627,
+      "outputId": 1,
+      "inputModuleId": 691,
+      "inputId": 7,
+      "color": "#c91847"
+    },
+    {
+      "id": 142,
+      "outputModuleId": 628,
+      "outputId": 0,
+      "inputModuleId": 630,
+      "inputId": 9,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 176,
+      "outputModuleId": 615,
+      "outputId": 1,
+      "inputModuleId": 628,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 177,
+      "outputModuleId": 628,
+      "outputId": 1,
+      "inputModuleId": 704,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 178,
+      "outputModuleId": 627,
+      "outputId": 5,
+      "inputModuleId": 704,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 179,
+      "outputModuleId": 687,
+      "outputId": 1,
+      "inputModuleId": 627,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 180,
+      "outputModuleId": 704,
+      "outputId": 0,
+      "inputModuleId": 621,
+      "inputId": 6,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 182,
+      "outputModuleId": 621,
+      "outputId": 0,
+      "inputModuleId": 693,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 185,
+      "outputModuleId": 621,
+      "outputId": 0,
+      "inputModuleId": 641,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 191,
+      "outputModuleId": 628,
+      "outputId": 5,
+      "inputModuleId": 629,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 187,
+      "outputModuleId": 628,
+      "outputId": 6,
+      "inputModuleId": 634,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 190,
+      "outputModuleId": 628,
+      "outputId": 7,
+      "inputModuleId": 641,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 192,
+      "outputModuleId": 621,
+      "outputId": 2,
+      "inputModuleId": 628,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 188,
+      "outputModuleId": 704,
+      "outputId": 0,
+      "inputModuleId": 621,
+      "inputId": 8,
+      "color": "#c91847"
+    },
+    {
+      "id": 186,
+      "outputModuleId": 634,
+      "outputId": 0,
+      "inputModuleId": 626,
+      "inputId": 6,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 183,
+      "outputModuleId": 626,
+      "outputId": 1,
+      "inputModuleId": 693,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 163,
+      "outputModuleId": 627,
+      "outputId": 0,
+      "inputModuleId": 629,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 157,
+      "outputModuleId": 629,
+      "outputId": 0,
+      "inputModuleId": 614,
+      "inputId": 4,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 193,
+      "outputModuleId": 614,
+      "outputId": 0,
+      "inputModuleId": 717,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 99,
+      "outputModuleId": 614,
+      "outputId": 1,
+      "inputModuleId": 399,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 194,
+      "outputModuleId": 614,
+      "outputId": 1,
+      "inputModuleId": 717,
+      "inputId": 3,
+      "color": "#c91847"
+    },
+    {
+      "id": 195,
+      "outputModuleId": 630,
+      "outputId": 3,
+      "inputModuleId": 691,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 196,
+      "outputModuleId": 630,
+      "outputId": 4,
+      "inputModuleId": 716,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 199,
+      "outputModuleId": 621,
+      "outputId": 3,
+      "inputModuleId": 693,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 200,
+      "outputModuleId": 704,
+      "outputId": 1,
+      "inputModuleId": 621,
+      "inputId": 9,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 201,
+      "outputModuleId": 704,
+      "outputId": 1,
+      "inputModuleId": 621,
+      "inputId": 11,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 197,
+      "outputModuleId": 640,
+      "outputId": 0,
+      "inputModuleId": 639,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 204,
+      "outputModuleId": 646,
+      "outputId": 1,
+      "inputModuleId": 639,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 205,
+      "outputModuleId": 621,
+      "outputId": 5,
+      "inputModuleId": 646,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 198,
+      "outputModuleId": 639,
+      "outputId": 0,
+      "inputModuleId": 629,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 206,
+      "outputModuleId": 629,
+      "outputId": 1,
+      "inputModuleId": 693,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 184,
+      "outputModuleId": 693,
+      "outputId": 1,
+      "inputModuleId": 614,
+      "inputId": 6,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 207,
+      "outputModuleId": 693,
+      "outputId": 2,
+      "inputModuleId": 614,
+      "inputId": 7,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 208,
+      "outputModuleId": 615,
+      "outputId": 4,
+      "inputModuleId": 705,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 209,
+      "outputModuleId": 615,
+      "outputId": 5,
+      "inputModuleId": 705,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 210,
+      "outputModuleId": 705,
+      "outputId": 0,
+      "inputModuleId": 678,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 211,
+      "outputModuleId": 678,
+      "outputId": 0,
+      "inputModuleId": 705,
+      "inputId": 4,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 212,
+      "outputModuleId": 705,
+      "outputId": 1,
+      "inputModuleId": 716,
+      "inputId": 4,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 213,
+      "outputModuleId": 705,
+      "outputId": 2,
+      "inputModuleId": 691,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 214,
+      "outputModuleId": 704,
+      "outputId": 2,
+      "inputModuleId": 630,
+      "inputId": 13,
+      "color": "#0986ad"
+    },
+    {
+      "id": 215,
+      "outputModuleId": 642,
+      "outputId": 7,
+      "inputModuleId": 630,
+      "inputId": 5,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 217,
+      "outputModuleId": 636,
+      "outputId": 0,
+      "inputModuleId": 637,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 218,
+      "outputModuleId": 693,
+      "outputId": 3,
+      "inputModuleId": 614,
+      "inputId": 8,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 219,
+      "outputModuleId": 637,
+      "outputId": 0,
+      "inputModuleId": 693,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 220,
+      "outputModuleId": 618,
+      "outputId": 4,
+      "inputModuleId": 693,
+      "inputId": 7,
+      "color": "#c91847"
+    },
+    {
+      "id": 225,
+      "outputModuleId": 699,
+      "outputId": 2,
+      "inputModuleId": 618,
+      "inputId": 10,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 226,
+      "outputModuleId": 698,
+      "outputId": 2,
+      "inputModuleId": 699,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 216,
+      "outputModuleId": 630,
+      "outputId": 5,
+      "inputModuleId": 647,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 229,
+      "outputModuleId": 647,
+      "outputId": 0,
+      "inputModuleId": 698,
+      "inputId": 4,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 230,
+      "outputModuleId": 698,
+      "outputId": 2,
+      "inputModuleId": 636,
+      "inputId": 0,
+      "color": "#0c8e15"
+    }
+  ]
+}
